@@ -1,0 +1,15 @@
+/* menu */
+.menu-btn {
+  position: absolute;
+  right: 0;
+  top: 4%;
+  margin-right: 10%;
+}
+.btn-line {
+  width: 28px;
+  height: 3px;
+  margin: 0 0 5px 0;
+  background: #fff;
+}
+
+/* show mobile navigation */
